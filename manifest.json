@@ -3,7 +3,7 @@
   "name": "Lista zadań",
   "icons": [
     {
-      "src": "logo512x512.png",
+      "src": "./logo512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
