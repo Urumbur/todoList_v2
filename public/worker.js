@@ -1,8 +1,7 @@
 const CACHE_NAME = 'todoList_v2';
 
 const urlsToCache = [
-    './index.html',
-    './index.css'
+    './index.html'
   ];
 
   // Install a service worker
