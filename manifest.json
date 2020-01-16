@@ -1,0 +1,16 @@
+{
+  "short_name": "Lista zadań",
+  "name": "Lista zadań",
+  "icons": [
+    {
+      "src": "logo512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#CFCED1",
+  "background_color": "#CFCED1"
+}
