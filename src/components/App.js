@@ -4,7 +4,7 @@ import TaskList from './TaskList';
 import uuid from 'uuid/v4';
 
 const App = () => {
-
+  
   const loadTasks = () => {
     const str = localStorage.getItem("tasks");
     let tasks = JSON.parse(str);
